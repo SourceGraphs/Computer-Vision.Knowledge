@@ -1,0 +1,1 @@
+- [Dominating an Online Game with Object Detection Using OpenCV - Template Matching.](https://youtu.be/vXqKniVe6P8)
