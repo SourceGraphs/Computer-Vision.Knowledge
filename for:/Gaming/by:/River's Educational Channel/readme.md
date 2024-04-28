@@ -1,0 +1,1 @@
+- [I tried to make a Valorant AI using computer vision](https://youtu.be/LXA7zXVz8A4)
