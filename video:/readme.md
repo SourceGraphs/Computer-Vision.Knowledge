@@ -3,3 +3,4 @@
 - [How to Build and Install OpenCV from Source | Using Visual Studio and CMake | Computer Vision](https://youtu.be/_fqpYLM6SCw)
 - [YOLOv3 Object Detection with Darknet for Windows/Linux | Install and Run with GPU and OPENCV](https://youtu.be/saDipJR14Lc)
 - [Train YOLOv3 Custom Object Detector with Darknet | Aimbot and Security Camera | Fast and Easy](https://youtu.be/zJDUhGL26iU)
+- [YOLOv4 in the CLOUD: Build and Train Custom Object Detector (FREE GPU)](https://youtu.be/mmj3nxGT2YQ)
