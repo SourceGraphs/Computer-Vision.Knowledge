@@ -1,2 +1,4 @@
 - [OpenCV C++ Install, Build, Run using VS Code and CMake (Debug and Release)](https://youtu.be/CnXUTG9XYGI)
 - [OPENCV & C++ TUTORIALS - 17 | OPENCV cv::Mat types | CV_8UC1CV_8UC2 CV_8UC3 CV_8UC4](https://youtu.be/9sCYObX1-aY)
+- [How to Build and Install OpenCV from Source | Using Visual Studio and CMake | Computer Vision](https://youtu.be/_fqpYLM6SCw)
+- [YOLOv3 Object Detection with Darknet for Windows/Linux | Install and Run with GPU and OPENCV](https://youtu.be/saDipJR14Lc)
